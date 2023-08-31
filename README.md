@@ -64,10 +64,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ### SERVER SIDE 
 
-<img width="460" alt="image" src="https://github.com/Monisha-11/Echoserver/assets/93427240/8b032737-da85-4378-9440-f20c7636cc9d">
+![image](https://github.com/Aashima02/Echoserver/assets/93427086/98afebaf-7746-49e6-942a-7035cc0dfe59)
+
 
 ### CLIENT SIDE 
-<img width="865" alt="image" src="https://github.com/Monisha-11/Echoserver/assets/93427240/55175569-07ae-40ce-b338-44ed99cb8da3">
+![image](https://github.com/Aashima02/Echoserver/assets/93427086/cf66589d-d2b9-49d6-9463-e8ce1834bd87)
+
+
 
 
 
